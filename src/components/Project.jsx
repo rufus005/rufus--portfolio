@@ -25,7 +25,7 @@ const Project = () => {
             </motion.div>
             
               <motion.div
-                whileInView={{opacity:1,x:-70}}
+                whileInView={{opacity:1,x:-20}}
                 initial={{opacity:0,x:1}}
                 transition={{duration:1}}
               className="w-full max-w-xl lg:w-3/4">
